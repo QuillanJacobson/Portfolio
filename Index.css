@@ -1,0 +1,103 @@
+/*validated*/
+
+#Welcome {
+	margin-left: 80px;
+	 }
+#Category {
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-top: 0px;
+	border: 1px solid black;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: 160px;
+	/*float: left;*/
+	   }
+.SpecialFormat {
+	background-color: blue;
+	margin-bottom: 5px;
+	height: 60px;
+	width: 5%;
+	text-align: center;
+	align: center;
+	font-size: 24pt;
+	color: Black;
+		    }
+#GameBoard {
+	left: 100px;
+	position: fixed;
+	top: 80px;
+	text-align: center;
+	width: 100%;
+	}
+.GameButtons {
+	width: 4%;
+	height: 30px;
+	margin-bottom: 5px;
+	      }
+#ChooseLetters {
+	position: fixed;
+	top: 365px;
+	left: 100px;
+	text-align: center;
+	width: 100%;
+	      }
+#Spin {
+	position: fixed;
+	top: 440px;
+	left: 100px;
+	text-align: center;
+	width: 100%;
+	
+	     }
+#UsedLetters {
+	position: fixed;
+	bottom: 25px;
+	left: 250px;
+
+	      }
+#Monies {
+	position: fixed;
+	bottom: 25px;
+	right: 50px;
+	 }
+.SideBFormat {
+	width: 12%;
+	position: absolute;
+	left: 38px;
+	/*display: inline-block;*/
+	      }
+#SpinResult {
+	position: fixed;
+	top: 500px;
+	left: 100px;
+	text-align: center;
+	width: 100%;
+	     }
+#ChosenOnes {
+	width: 380px;
+	     }
+#CoolCat {
+	position: fixed;
+	right: 50px;
+	top: 0px;
+	  }
+#SlideySlider {
+	position: fixed;
+	top: 35px;
+	left: 550px;
+	       }
+#SlideyTexter {
+	position: fixed;
+	top: 15px;
+	left: 640px;
+	       }
+#Implement {
+	position: fixed;
+	top: 45px;
+	left: 850px;
+	      }
+
+
